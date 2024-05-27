@@ -1,0 +1,28 @@
+{
+  "printWidth": 80,
+  "tabWidth": 2,
+  "endOfLine": "lf",
+  "semi": true,
+  "singleQuote": false,
+  "arrowParens": "always",
+  "bracketSameLine": false,
+  "bracketSpacing": true,
+  "vueIndentScriptAndStyle": false,
+  "embeddedLanguageFormatting": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "quoteProps": "as-needed",
+  "proseWrap": "preserve",
+  "importOrder": [
+    "^core/(.*)$",
+    "^common/(.*)$",
+    "^modules/(.*)$",
+    "^src/(.*)$",
+    "^@types/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
